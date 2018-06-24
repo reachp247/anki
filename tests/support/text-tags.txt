@@ -1,2 +1,48 @@
 foo	bar	baz,qux
 foo2	bar2	baz2
+
+
+"Excellence is an art won by training and habituation. We do not act rightly because we have virtue or excellence, but we rather have those because we have acted rightly. We are what we repeatedly do. Excellence, then, is not an act but a habit."
+
+- Aristotle
+
+“In practice, we always base our preparations against an enemy on the assumption that his plans are good; indeed, it is right to rest our hopes not on a belief in his blunders, but on the soundness of our provisions. Nor ought we to believe that there is much difference between man and man, but to think that the superiority lies with him who is reared in the severest school.” 
+
+― Thucydides
+
+“All men are the same except for their belief in their own selves, regardless of what others may think of them” 
+
+― Miyamoto Musashi
+
+“The primary thing when you take a sword in your hands is your intention to cut the enemy, whatever the means. Whenever you parry, hit, spring, strike or touch the enemy's cutting sword, you must cut the enemy in the same movement. It is essential to attain this. If you think only of hitting, springing, striking or touching the enemy, you will not be able actually to cut him.” 
+
+― Miyamoto Musashi
+
+"Me? I've got a different problem. I feel like I live in a world made of cardboard, always taking constant care not to break something, to break someone. Never allowing myself to lose control even for a moment, or someone could die. But you can take it, can't you, big man? What we have here is a rare opportunity for me to cut loose and show you just how powerful I really am."
+
+— Superman, Justice League Unlimited
+
+"A good plan violently executed now is better than a perfect plan executed next week."
+
+— George S. Patton
+
+"We don't rise to the level of our expectations. We fall to the level of our training."
+
+— Archilochus
+
+"Research on the forgetting curve shows that within one hour, people will have forgotten an average of 50 percent of the information you presented. Within 24 hours, they have forgotten an average of 70 percent of new information, and within a week, forgetting claims an average of 90 percent of it."
+
+- Art Kohn, Ph.D.
+Cognitive Science at Duke University
+
+"Great spirits have always encountered violent opposition from mediocre minds."
+
+- Albert Einstein
+
+“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”
+
+- Theodore Roosevelt
+
+“The poorest way to face life is to face it with a sneer. A cynical habit of thought and speech, a readiness to criticize work which the critic himself never tries to perform, an intellectual aloofness which will not accept contact with life's realities—all these are marks, not of superiority but of weakness.”
+
+- Theodore Roosevelt
